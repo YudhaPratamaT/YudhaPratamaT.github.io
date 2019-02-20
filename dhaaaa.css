@@ -1,26 +1,4 @@
-body {background:url(https://github.com/YudhaPratamaT.github)}
-h1 {color:purple;
-text-align:center;
-text-decoration: overline;
-}
-p {font-size: 16px;}
-div {
-	border: 1px solid black;
-	padding: 25px 50px 75px;
-	background-color; lightblue;
-}
-p.sansserif {font-family: Arial, Helvetica, sans-serif;}
-#p1 {background-color:rgba(0,255,0,0,3);}
-#p2 {background-color:rgba(0,0,255,0,3);}
-#p3 {background-color:rgba(255,0,255,0,3);}
-h2{color: purple;
-background-color:pink;
-text-shadow: 3px 2px blue;
-}
-.Hijau {color: green;}
-.Putih{color: white}
-.Ungu{color:purple; }
-table {border-collapse: collapse;}
-table, td, th { border: 1px solid black;}
-table {border-collapse: collapse;}
-table, td, th { border: 1px solod black;}
+body {background-image: url("background.jpg");}
+h1 {color: #8c3aff}
+td {color: green}
+p {font-family: Comic}
